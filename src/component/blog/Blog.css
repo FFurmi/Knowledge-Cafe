@@ -1,0 +1,19 @@
+#author-img{
+    width: 60px;
+    height: 60px;
+}
+#btn-bookmark{
+    text-decoration: none;
+    border: none;
+    background: none;
+    
+}
+#btn-read{
+    text-decoration: none;
+    border: none;
+    background: none;
+    color: blue;
+    border-bottom: 1px solid blue;
+    padding:2px;
+    border-radius: 0;
+}
